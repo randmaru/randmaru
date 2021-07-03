@@ -12,7 +12,7 @@
 
 ### **My skills**:
 
-| Web basics | Programming languages  |
+| Web basics | Programming languages |
 | - | - |
 | <img src="./assets/svg/html5.svg">&nbsp;<img src="./assets/svg/css3.svg">&nbsp;<img src="./assets/svg/svg.svg"> | <img src="./assets/svg/php.svg">&nbsp;<img src="./assets/svg/nodejs.svg">&nbsp;<img src="./assets/svg/js.svg">&nbsp;<img src="./assets/svg/ts.svg">&nbsp;<img src="./assets/svg/sass.svg"> |
 
