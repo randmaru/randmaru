@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working in [Macropod](http://macropod.ru)
 
-- 🌱 I’m currently learning: **React, TypeScript and NodeJS**
+- 🌱 I’m currently learning: **Vue, React, TypeScript and NodeJS**
 
 - 📫 How to reach me: [Telegram](http://t.me/randmaru), hh@randma.ru
 
