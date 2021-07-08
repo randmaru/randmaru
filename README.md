@@ -18,7 +18,7 @@
 
 | DBMS | Frameworks| Libraries |
 | - | - | - |
-| <img src="./assets/svg/mysql.svg">&nbsp;<img src="./assets/svg/mongodb.svg"> | <img src="./assets/svg/bootstrap.svg"> | <img src="./assets/svg/react.svg">&nbsp;<img src="./assets/svg/material-ui.svg"> |
+| <img src="./assets/svg/mysql.svg">&nbsp;<img src="./assets/svg/mongodb.svg"> | <img src="./assets/svg/vue.svg">&nbsp;<img src="./assets/svg/bootstrap.svg"> | <img src="./assets/svg/react.svg"> |
 
 | Programming tools | Design tools |
 | - | - |
