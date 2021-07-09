@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Alexey Ivanov aka [randmaru](http://github.com/randmaru)
 
-# I'm Web Developer and Student!
+# I'm Frontend Developer and Student!
 
 - 🔭 I’m currently working in [Macropod](http://macropod.ru)
 
