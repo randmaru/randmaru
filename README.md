@@ -2,11 +2,13 @@
 
 # I'm Frontend Developer and Student!
 
-- 🔭 I’m currently working in [Macropod](http://macropod.ru)
+- 👨‍💼 I’m currently working in [Macropod](http://macropod.ru)
 
-- 🌱 I’m currently learning: **Vue, React, TypeScript and NodeJS**
+- 🏫 I'm study at [Yaroslav-the-Wise Novgorod State University](http://novsu.ru)
 
-- 📫 How to reach me: [Telegram](http://t.me/randmaru), hh@randma.ru
+- 📖 I’m currently learning: **Vue, React, TypeScript and NodeJS**
+
+- 📧 How to reach me: [Telegram](http://t.me/randmaru), hh@randma.ru
 
 ---
 
