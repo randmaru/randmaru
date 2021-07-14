@@ -24,4 +24,4 @@
 
 | Programming tools | Design tools |
 | - | - |
-| <img src="./assets/svg/git.svg">&nbsp;<img src="./assets/svg/vscode.svg">&nbsp;<img src="./assets/svg/docker.svg">&nbsp;<img src="./assets/svg/postman.svg"> | <img src="./assets/svg/figma.svg">&nbsp;<img src="./assets/svg/gimp.svg">&nbsp;<img src="./assets/svg/inkscape.svg"> |
+| <img src="./assets/svg/git.svg">&nbsp;<img src="./assets/svg/vscode.svg">&nbsp;<img src="./assets/svg/phpstorm.svg">&nbsp;<img src="./assets/svg/docker.svg">&nbsp;<img src="./assets/svg/postman.svg"> | <img src="./assets/svg/figma.svg">&nbsp;<img src="./assets/svg/gimp.svg">&nbsp;<img src="./assets/svg/inkscape.svg"> |
