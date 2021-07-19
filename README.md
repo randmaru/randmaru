@@ -8,7 +8,7 @@
 
 - 📖 I’m currently learning: **Vue, React, TypeScript and NodeJS**
 
-- 📧 How to reach me: [Telegram](http://t.me/randmaru), hh@randma.ru
+- 📧 How to reach me: [Telegram](http://t.me/randmaru), git.randmaru@ya.ru
 
 ---
 
