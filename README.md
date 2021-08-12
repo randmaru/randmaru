@@ -2,9 +2,9 @@
 
 # I'm Frontend Developer and Student!
 
-- 👨‍💼 I’m currently working in [Macropod](http://macropod.ru)
+- 👨‍💼 I’m currently working in [Antares Software Group](http://github.com/Antares-Software)
 
-- 🏫 I'm study at [Yaroslav-the-Wise Novgorod State University](http://novsu.ru)
+- 🏫 I'm study at [Yaroslav-the-Wise Novgorod State University](http://novsu.ru) and [Rolling Scopes School](http://github.com/rolling-scopes-school)
 
 - 📖 I’m currently learning: **Vue, React, TypeScript and NodeJS**
 
