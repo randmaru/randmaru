@@ -28,7 +28,7 @@
   <dt><b>Libraries:</b></dt>
     <dd><img src="./assets/svg/bootstrap.svg" title="Bootstrap" alt="Bootstrap">&nbsp;<img src="./assets/svg/vuetify.svg" title="Vuetify" alt="Vuetify">&nbsp;<img src="./assets/svg/material-ui.svg" title="Material-UI" alt="Material-UI"></dd>
   <dt><b>Programming tools:</b></dt>
-    <dd><img src="./assets/svg/git.svg" title="Git" alt="Git">&nbsp;<img src="./assets/svg/win-terminal.svg" title="Windows Terminal" alt="Windows Terminal">&nbsp;<img src="./assets/svg/phpstorm.svg" title="WebStorm" alt="WebStorm">&nbsp;<img src="./assets/svg/phpstorm.svg" title="PhpStorm" alt="PhpStorm">&nbsp;<img src="./assets/svg/docker.svg" title="Docker" alt="Docker">&nbsp;<img src="./assets/svg/postman.svg" title="Postman" alt="Postman"></dd>
+    <dd><img src="./assets/svg/git.svg" title="Git" alt="Git">&nbsp;<img src="./assets/svg/win-terminal.svg" title="Windows Terminal" alt="Windows Terminal">&nbsp;<img src="./assets/svg/webstorm.svg" title="WebStorm" alt="WebStorm">&nbsp;<img src="./assets/svg/phpstorm.svg" title="PhpStorm" alt="PhpStorm">&nbsp;<img src="./assets/svg/docker.svg" title="Docker" alt="Docker">&nbsp;<img src="./assets/svg/postman.svg" title="Postman" alt="Postman"></dd>
   <dt><b>Design tools:</b></dt>
     <dd><img src="./assets/svg/figma.svg" title="Figma" alt="Figma">&nbsp;<img src="./assets/svg/gimp.svg" title="Gimp" alt="Gimp">&nbsp;<img src="./assets/svg/inkscape.svg" title="Inkscape" alt="Inkscape">&nbsp;<img src="./assets/svg/kdenlive.svg" title="Kdenlive" alt="Kdenlive"></dd>
 </dl>
