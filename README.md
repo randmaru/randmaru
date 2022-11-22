@@ -8,4 +8,4 @@
 
 - 📖 I’m currently learning: **React.js, TypeScript and Node.js**
 
-- 📧 How to reach me: [Telegram](http://t.me/randmaru), git.randmaru@ya.ru
+- 📧 How to reach me: [Telegram](http://t.me/randmaru), git@randma.ru
